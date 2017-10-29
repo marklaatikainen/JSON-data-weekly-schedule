@@ -1,0 +1,18 @@
+.table {
+	width: 70%;
+	display: table;
+	border-collapse: separate;
+	border-spacing: 1px;
+}
+
+td.event {
+	background-color: #bcc9b6;
+	width: 40px !important;
+	border: 1px solid black !important;
+	border-radius: 10px;
+}
+
+.cell, th, .event, .time {
+	text-align: center;
+	width: 12% !important;
+}
